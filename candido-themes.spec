@@ -47,3 +47,25 @@ Various GTK2, Metacity, and XFWM4 themes for the Candido GTK2.x engine.
 %defattr(-,root,root)
 %{themesdir}/*
 
+
+
+%changelog
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 1.0-5mdv2011.0
++ Revision: 616937
+- the mass rebuild of 2010.0 packages
+
+* Wed Sep 02 2009 Thierry Vignaud <tv@mandriva.org> 1.0-4mdv2010.0
++ Revision: 424745
+- rebuild
+
+* Wed Jul 23 2008 Thierry Vignaud <tv@mandriva.org> 1.0-3mdv2009.0
++ Revision: 243432
+- rebuild
+
+* Wed Jan 09 2008 Lev Givon <lev@mandriva.org> 1.0-1mdv2008.1
++ Revision: 147369
+- import candido-themes
+
+
+* Wed Jan 09 2008 Lev Givon <lev@mandriva.org> 1.0-1mdv2008.0
+- Package for Mandriva.
