@@ -1,6 +1,6 @@
 %define name	candido-themes
 %define version 1.0
-%define release %mkrel 5
+%define release 6
 
 %define themesdir %{_datadir}/themes
 
