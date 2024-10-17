@@ -17,7 +17,7 @@ Source5: 	  Candido-Engine-Metacity.tar.bz2
 Source6: 	  Candido-Engine-Xfwm4.tar.bz2
 License: 	  GPL
 Group: 		  Graphical desktop/GNOME
-Url:   		  http://candido.berlios.de/
+Url:   		  https://candido.berlios.de/
 BuildRoot: 	  %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: 	  noarch
 Requires: 	  candido
